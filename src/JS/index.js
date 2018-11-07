@@ -1,3 +1,4 @@
+alert("myCurrentAge = 18");
 console.log("Цикл For");
 var myCurrentAge = 18;
 for (var i = 3; i <= 18; i++)
