@@ -1,28 +1,2 @@
 # Lesson10-
 Lesson 10 JavaScript
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <title>JavaScript</title>
-    <meta charset="UTF-8">
-    <meta name="description" content="SkillUP Lesson8">
-    <meta name="keywords" content="JavaScript, HTML JavaScript, JavaScript">
-    <meta name="author" content="Макеев Никита">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="stylesheet" href="./CSS/style.css">
-</head>
-<body> 
-    
-    <h1>LESSON 10 HOME WORK</h1> 
-    <br>
-    <h2>Первый big.js, потом small.js</h2>
-    <br>
-    <h3>Первый small.js, потом big.js</h3>
-    <br>
-    <h4>Первый big.js, потом small.js</h4>
-    <script src="./JS/index.js" defer></script>
-    
-    
-</body>
-</html>
